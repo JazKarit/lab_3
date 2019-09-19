@@ -13,6 +13,6 @@ grep -c @ regwex_practice.txt
 grep -o 303-...-.... regwex_practice.txt
 grep @geocities.com regwex_practice.txt >> email_results.txt
 git add email_results.txt
-git commit -m "Added text file of geocities emails"
+git commit -m "Regex test file"
 
 
